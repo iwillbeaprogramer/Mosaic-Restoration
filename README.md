@@ -1,7 +1,7 @@
 # Mosaic-Restoration
 모자이크 복원 딥러닝
 
-![Preview](https://user-images.githubusercontent.com/70966332/111166079-1917e980-85e3-11eb-9b4b-375de85cf5fd.jpg)
+![Preview (1)](https://user-images.githubusercontent.com/70966332/111230053-505db900-862a-11eb-8273-9cc5e8c84e27.jpg)
 ![22831f09512e7d3d8b9394b58ba602b5-0](https://user-images.githubusercontent.com/70966332/111093764-0ff43180-857d-11eb-9ffa-efe2caf6cdd2.jpg)
 ![22831f09512e7d3d8b9394b58ba602b5-1](https://user-images.githubusercontent.com/70966332/111093768-11bdf500-857d-11eb-9cc2-38ef64b7068c.jpg)
 ![22831f09512e7d3d8b9394b58ba602b5-2](https://user-images.githubusercontent.com/70966332/111093770-11bdf500-857d-11eb-9d1d-2e31204bf8a5.jpg)
